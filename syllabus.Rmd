@@ -43,6 +43,8 @@ Upon successful completion of this course, students should be able to:
 
 * understand key concepts
 
+test change
+
 ### Schedule
 
 ```{r schedule,echo=FALSE,message=FALSE}
