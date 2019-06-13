@@ -21,6 +21,7 @@ What do I want the course to be about?
     3. The Business Analytics Model
     4. Radio station example
     5. [Article](https://www.forbes.com/sites/brentdykes/2019/03/28/the-four-key-pillars-to-fostering-a-data-driven-culture/#d9995657d90e)
+    6. [7 Ways to Fail](https://www.cio.com/article/3235959/7-sure-fire-ways-to-fail-at-data-analytics.html)
     6. [OKR Video](https://www.youtube.com/watch?v=L4N1q4RNi9I)
     6. [Tech Intro: Git/GitHub](https://www.youtube.com/watch?v=BCQHnlnPusY)
     7. Tech Intro: Docker
