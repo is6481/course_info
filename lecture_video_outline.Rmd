@@ -1,0 +1,49 @@
+---
+title: "Lecture Video Outline"
+author: "Jeremy Morris"
+output: 
+  html_document: 
+    theme: cosmo
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+What do I want the course to be about?
+
+* Good analytics starts with business strategy and goes from there
+* Depending on your goals and objectives, you will make certain decisions about the data you collect and how you report
+
+* Introduction/Chapter 1: The Business Analytics Model
+    1. Why is data important - a personal story
+    2. What is Business Analytics
+    3. The Business Analytics Model
+    4. Radio station example
+    5. [Article](https://www.forbes.com/sites/brentdykes/2019/03/28/the-four-key-pillars-to-fostering-a-data-driven-culture/#d9995657d90e)
+    6. [OKR Video](https://www.youtube.com/watch?v=L4N1q4RNi9I)
+    6. [Tech Intro: Git/GitHub](https://www.youtube.com/watch?v=BCQHnlnPusY)
+    7. Tech Intro: Docker
+    8. Lab 1a: Environment Setup
+    9. Lab 1b: RMarkdown, Data Ingestion, Data Manipulation
+* Chapter 2: BA at the Strategic Level
+    1. Business Analytics at the strategic level
+    2. Link between strategy and the deployment of BA
+    3. Strategy and BA: Four scenarios
+    4. Which information do we prioritize
+    5. Goal setting methods (OKR vs BSQ)
+    6. Lab 2: 
+* Chapter 3: Develoment and Deployment of Information at the Functional Level
+    1. Summerhouse example
+    2. Establishing processes with the Rockart model
+    3. Example
+    4. Optimizing business process
+    6. Which process should we start with
+    7. Lab 3: 
+* Chapter 4: BA at the Analytical Level
+* Chapter 5: BA at the Data Warehouse Level
+* Chapter 6: The Company's Collection of Source Data
+* Chapter 7: Structuring of a Business Analytics Competency Center
+* Chapter 8: Assessment and Prioritization of Business Analytics Projects
+* Chapter 9: Business Analytics in the Future
+* Final Exam
