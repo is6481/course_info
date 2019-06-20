@@ -1,8 +1,9 @@
 ---
 title: "Lecture Video Outline"
 author: "Jeremy Morris"
-output: 
-  html_document: 
+output:
+  word_document: default
+  html_document:
     theme: cosmo
 ---
 
@@ -22,25 +23,24 @@ What do I want the course to be about?
     4. Radio station example
     5. [Article](https://www.forbes.com/sites/brentdykes/2019/03/28/the-four-key-pillars-to-fostering-a-data-driven-culture/#d9995657d90e)
     6. [7 Ways to Fail](https://www.cio.com/article/3235959/7-sure-fire-ways-to-fail-at-data-analytics.html)
-    6. [OKR Video](https://www.youtube.com/watch?v=L4N1q4RNi9I)
     6. [Tech Intro: Git/GitHub](https://www.youtube.com/watch?v=BCQHnlnPusY)
-    7. Tech Intro: Docker
-    8. Lab 1a: Environment Setup
-    9. Lab 1b: RMarkdown, Data Ingestion, Data Manipulation
+    7. Tech Intro: Docker (TBD)
+    8. Lab 1: (TBD)
 * Chapter 2: BA at the Strategic Level
     1. Business Analytics at the strategic level
     2. Link between strategy and the deployment of BA
     3. Strategy and BA: Four scenarios
     4. Which information do we prioritize
     5. Goal setting methods (OKR vs BSQ)
-    6. Lab 2: 
+        * [OKR Video](https://www.youtube.com/watch?v=L4N1q4RNi9I)
+    6. Lab 2: (TBD)
 * Chapter 3: Develoment and Deployment of Information at the Functional Level
     1. Summerhouse example
     2. Establishing processes with the Rockart model
     3. Example
     4. Optimizing business process
     6. Which process should we start with
-    7. Lab 3: 
+    7. Lab 3: (TBD)
 * Chapter 4: BA at the Analytical Level
 * Chapter 5: BA at the Data Warehouse Level
 * Chapter 6: The Company's Collection of Source Data
