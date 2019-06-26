@@ -33,15 +33,26 @@ What do I want the course to be about?
     4. Which information do we prioritize
     5. Goal setting methods (OKR vs BSQ)
         * [OKR Video](https://www.youtube.com/watch?v=L4N1q4RNi9I)
+    6. Analytics influencing strategy
+        * [Moneyball](https://www.youtube.com/watch?v=rMJ2IcD_fFc)
     6. Lab 2: (TBD)
 * Chapter 3: Develoment and Deployment of Information at the Functional Level
+    1. Introduction
     1. Summerhouse example
     2. Establishing processes with the Rockart model
-    3. Example
     4. Optimizing business process
-    6. Which process should we start with
+    6. ~~Which process should we start with~~ May do a chapter overview here and explain why not doing this.
     7. Lab 3: (TBD)
 * Chapter 4: BA at the Analytical Level
+    1. Introduction to chapter
+    2. Data, information and knowledge,
+    3. Analyst's role in the business analytics model
+    4. Three requirements analysts must meet
+    5. Required competencies for the analyst
+    6. Hypothesis-driven methods
+    7. Data minint with target variables
+    8. Explorative methods
+    9. Business requirements
 * Chapter 5: BA at the Data Warehouse Level
 * Chapter 6: The Company's Collection of Source Data
 * Chapter 7: Structuring of a Business Analytics Competency Center
