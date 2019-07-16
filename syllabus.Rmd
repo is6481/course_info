@@ -1,8 +1,8 @@
 ---
 title: "Syllabus"
 author: "Jeremy Morris"
-output: 
-  html_document: 
+output:
+  html_document:
     theme: cosmo
 ---
 
@@ -92,7 +92,8 @@ guideline <- tribble(
     '4000-5990','2.8-3.2',
     '6000-6990','3.1-3.5'
 )
-knitr::kable(guideline) %>% kable_styling(c('striped'),full_width = F,position='left') %>% column_spec(1, bold = T, border_right = T)
+knitr::kable(guideline) %>% kable_styling(c('striped'),full_width = F,position='left') %>%
+  column_spec(1, bold = T, border_right = T)
 ```
 
 If students have a concern about their grade in a particular course, they should consider whether it reflects an accurate evaluation of their mastery of the course material and learning objectives, in terms of the above descriptors. If they need clarification of the instructor's evaluation, they should meet with the instructor to obtain additional information and feedback. If after doing so, they believe their grade was arrived at in an inappropriate manner, they may pursue an appeal through the School's appeals process as described in Section 5.15 of the University of Utah Code of Student Rights and Responsibilities (Policy 6-400).

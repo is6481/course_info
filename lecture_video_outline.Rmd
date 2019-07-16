@@ -49,11 +49,12 @@ What do I want the course to be about?
     3. Analyst's role in the business analytics model
     4. Three requirements analysts must meet
     5. Required competencies for the analyst
-    6. Hypothesis-driven methods
-    7. Data minint with target variables
-    8. Explorative methods
+    6. Quantitative method summary
     9. Business requirements
 * Chapter 5: BA at the Data Warehouse Level
+    1. Why a data warehouse?
+    2. Architecture and processes in a data warehouse
+    3. Tips and Techniques in Data Warehousing
 * Chapter 6: The Company's Collection of Source Data
 * Chapter 7: Structuring of a Business Analytics Competency Center
 * Chapter 8: Assessment and Prioritization of Business Analytics Projects
