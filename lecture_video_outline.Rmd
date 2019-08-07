@@ -57,8 +57,23 @@ What do I want the course to be about?
     3. Data Cleanliness
     4. DW: Functions, Components and Examples
     3. Tips and Techniques in Data Warehousing
+    6. [MDM and DQ](https://www.youtube.com/watch?v=dspdToaROn8)
 * Chapter 6: The Company's Collection of Source Data
+    1. What are source systems?
+    2. Which information is best
+    3. More than one job
+    4. Data quality
 * Chapter 7: Structuring of a Business Analytics Competency Center
+    1. Analytics Competency Center
+    2. Why setup a BACC?
+    3. Tasks and Competencies
+    4. Centralized or Decentralized?
+    5. When should a BACC be established?
+    6. Applying the Analytical Factory Approach
 * Chapter 8: Assessment and Prioritization of Business Analytics Projects
+    1. Is it a strategic project?
+    2. When projects run over several years
+    3. When uncertainty is too big
+    4. Projects as part of the bigger picture
 * Chapter 9: Business Analytics in the Future
 * Final Exam
