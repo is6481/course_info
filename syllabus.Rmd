@@ -33,17 +33,31 @@ This syllabus is subject to change. Please come back and review occasionally to 
 #### Optional Textbooks
 
 ### Canvas  
-All other course materials are available on Canvas.
+All materials for the course can be found on GitHub here: [https://github.com/is6481](https://github.com/is6481). Students are expected to keep up with all other materials and announcements in Canvas.
 
 ### Course Description
-Some description here
+Data has always been used as a way to measure and improve processes in business. At its core, this course intends to teach best practices for optimizing business processes using data. During the course we will discuss the following topics.
+
+* The ideal state of information flow within a business.
+* Required competencies for analytics staff.
+* Data warehouse functional requirements.
+* Possible analytics organization structures.
+* Data quality, data quality, and more data quality.
+
+This course also includes a set of hands-on labs intended to walk students through the process of providing analytics to a business. The intent is not to get any deep skills in one particular area but to introduce students to various technologies and to gain a small amount of hands-on experience with those technologies. A very small amount of coding will be required, help will be provided when necessary. This semester we will be using the following technologies (in some form or another).
+
+* GitHub
+* Domo
+* AWS
+* R/R Studio
+
+All technologies exist in the cloud, however, some software downloads may be necessary on occasion to interact with them.
 
 ### Learning Objectives
-Upon successful completion of this course, students should be able to:  
+Objectives are as follows.
 
-* understand key concepts
-
-test change
+* Introduce a set of ideal situations to optimize business operations through analytics.
+* Gain some hands-on experience with modern analytics technologies.
 
 ### Schedule
 
