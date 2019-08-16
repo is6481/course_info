@@ -135,7 +135,7 @@ Chapter 3: Develoment and Deployment of Information at the Functional
 Level
 </td>
 <td style="text-align:left;border-right:1px solid;">
-Lab 6 : ETL
+Lab 3 : ETL
 </td>
 <td style="text-align:left;">
 Quiz 2<br>Lab 2
@@ -152,7 +152,7 @@ Oct 14, 2019
 Chapter 4: BA at the Analytical Level
 </td>
 <td style="text-align:left;border-right:1px solid;">
-Lab 3 : Dashboard Creation
+Lab 4 : Dashboard Creation
 </td>
 <td style="text-align:left;">
 Quiz 3<br>Lab 3
@@ -169,7 +169,7 @@ Oct 21, 2019
 Chapter 5: BA at the Data Warehouse Level
 </td>
 <td style="text-align:left;border-right:1px solid;">
-Lab 4 : Unsupervised Learning
+Lab 5 : Unsupervised Learning
 </td>
 <td style="text-align:left;">
 Quiz 4<br>Lab 4
@@ -186,7 +186,7 @@ Oct 28, 2019
 Chapter 6: The Company’s Collection of Source Data
 </td>
 <td style="text-align:left;border-right:1px solid;">
-Lab 5 : Supervised Learning
+Lab 6 : Supervised Learning
 </td>
 <td style="text-align:left;">
 Quiz 5<br>Lab 5
