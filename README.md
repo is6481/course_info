@@ -166,7 +166,7 @@ Oct 21, 2019
 5
 </td>
 <td style="text-align:left;border-right:1px solid;">
-Chapter 5: BA at the Data Warehouse Level
+Chapter 4: BA at the Analytical Level (Continued)
 </td>
 <td style="text-align:left;border-right:1px solid;">
 Lab 5 : Unsupervised Learning
@@ -183,7 +183,7 @@ Oct 28, 2019
 6
 </td>
 <td style="text-align:left;border-right:1px solid;">
-Chapter 6: The Company’s Collection of Source Data
+Chapter 5: BA at the Data Warehouse Level
 </td>
 <td style="text-align:left;border-right:1px solid;">
 Lab 6 : Supervised Learning
@@ -200,7 +200,7 @@ Nov 04, 2019
 7
 </td>
 <td style="text-align:left;border-right:1px solid;">
-Chapter 7: Structuring of a Business Analytics Competency Center
+Chapter 6: The Company’s Collection of Source Data
 </td>
 <td style="text-align:left;border-right:1px solid;">
 Lab 7 : Creating a database
@@ -217,7 +217,7 @@ Nov 11, 2019
 8
 </td>
 <td style="text-align:left;border-right:1px solid;">
-Chapter 8: Assessment and Prioritization of Business Analytics Projects
+Chapter 7: Structuring of a Business Analytics Competency Center
 </td>
 <td style="text-align:left;border-right:1px solid;">
 Lab 8 : Technology comparison
@@ -251,7 +251,7 @@ Nov 25, 2019
 9
 </td>
 <td style="text-align:left;border-right:1px solid;">
-Chapter 9: Business Analytics in the Future
+Chapter 8: Assessment and Prioritization of Business Analytics Projects
 </td>
 <td style="text-align:left;border-right:1px solid;">
 Lab 9 : APIs
