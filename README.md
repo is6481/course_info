@@ -279,6 +279,136 @@ Final Exam<br>Lab 9
 </tr>
 </tbody>
 </table>
+### Grading
+
+Points will be assigned based on the following:
+
+<table class="table table-striped" style="width: auto !important; ">
+<thead>
+<tr>
+<th style="text-align:left;">
+Item
+</th>
+<th style="text-align:right;">
+Points
+</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:left;font-weight: bold;border-right:1px solid;">
+Labs
+</td>
+<td style="text-align:right;">
+20
+</td>
+</tr>
+<tr>
+<td style="text-align:left;font-weight: bold;border-right:1px solid;">
+Quizzes
+</td>
+<td style="text-align:right;">
+35
+</td>
+</tr>
+<tr>
+<td style="text-align:left;font-weight: bold;border-right:1px solid;">
+Exam
+</td>
+<td style="text-align:right;">
+45
+</td>
+</tr>
+</tbody>
+</table>
+The tentative grading scale is as follows:
+
+<table class="table table-striped" style="width: auto !important; ">
+<thead>
+<tr>
+<th style="text-align:left;">
+Grade
+</th>
+<th style="text-align:left;">
+Range
+</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:left;font-weight: bold;border-right:1px solid;">
+A
+</td>
+<td style="text-align:left;">
+90 and above
+</td>
+</tr>
+<tr>
+<td style="text-align:left;font-weight: bold;border-right:1px solid;">
+A-
+</td>
+<td style="text-align:left;">
+88 and above
+</td>
+</tr>
+<tr>
+<td style="text-align:left;font-weight: bold;border-right:1px solid;">
+B+
+</td>
+<td style="text-align:left;">
+86 and above
+</td>
+</tr>
+<tr>
+<td style="text-align:left;font-weight: bold;border-right:1px solid;">
+B
+</td>
+<td style="text-align:left;">
+83 and above
+</td>
+</tr>
+<tr>
+<td style="text-align:left;font-weight: bold;border-right:1px solid;">
+B-
+</td>
+<td style="text-align:left;">
+80 and above
+</td>
+</tr>
+<tr>
+<td style="text-align:left;font-weight: bold;border-right:1px solid;">
+C+
+</td>
+<td style="text-align:left;">
+76 and above
+</td>
+</tr>
+<tr>
+<td style="text-align:left;font-weight: bold;border-right:1px solid;">
+C
+</td>
+<td style="text-align:left;">
+73 and above
+</td>
+</tr>
+<tr>
+<td style="text-align:left;font-weight: bold;border-right:1px solid;">
+C-
+</td>
+<td style="text-align:left;">
+70 and above
+</td>
+</tr>
+<tr>
+<td style="text-align:left;font-weight: bold;border-right:1px solid;">
+D+ through F
+</td>
+<td style="text-align:left;">
+below 70
+</td>
+</tr>
+</tbody>
+</table>
 ### Disability Accommodation
 
 The University of Utah seeks to provide equal access to its programs,

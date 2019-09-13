@@ -79,6 +79,40 @@ knitr::kable(schedule,format='html',escape=F,col.names=c('Dates','Week','Lecture
 
 ```
 
+### Grading
+Points will be assigned based on the following:
+
+```{r grading,echo=F}
+point_allocation <- tribble(
+    ~Item,~Points,
+    'Labs',20,
+    'Quizzes',35,
+    'Exam',45
+)
+knitr::kable(point_allocation) %>% 
+    kable_styling(c('striped'),full_width = F,position='left') %>% 
+    column_spec(1, bold = T, border_right = T)
+```
+
+The tentative grading scale is as follows:
+
+```{r grading_table,echo=F}
+grading <- tribble(
+    ~Grade, ~ Range,
+    'A' , '90 and above',
+    'A-' , '88 and above',
+    'B+','86 and above',
+    'B','83 and above',
+    'B-','80 and above',
+    'C+','76 and above',
+    'C','73 and above',
+    'C-','70 and above',
+    'D+ through F', 'below 70'
+)
+knitr::kable(grading) %>% kable_styling(c('striped'),full_width = F,position='left') %>% column_spec(1, bold = T, border_right = T)
+```
+
+
 
 ### Disability Accommodation
 The University of Utah seeks to provide equal access to its programs, services and activities for people with disabilities. If you will need accommodations in the class, reasonable prior notice needs to be given to the Center for Disability Services, 162 Union Building, 581-5020 (V/TDD). CDS will work with you and the instructor to make arrangements for accommodations.
