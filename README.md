@@ -5,22 +5,29 @@ Course Info
 
 *Instructor:* Jeremy Morris  
 *Office:* Off Campus  
-*Email:* Canvas only  
+*Email:*
+<a href="mailto:jeremy.morris@utah.edu" class="email">jeremy.morris@utah.edu</a>  
 *Phone:* 801-573-3265  
 <!-- _Office Hours:_ Wednesdays, 4:30-5:30pm in SFEBB 5155   -->
 *Twitter:* @seedatarun
 
-Start Date: TBD Classroom: Online
+*Teaching Assistant:* William Schworer  
+*Email:* Canvas only
+
+Start Date: September 23, 2019 Classroom: Online
 
 This syllabus is subject to change. Please come back and review
 occasionally to see changes.
 
 ### Required Textbook
 
-[Business Analytics for Managers: Taking Business Intelligence Beyond
-Reporting](https://www.amazon.com/Business-Analytics-Managers-Intelligence-Reporting/dp/111929858X)
+-   [Business Analytics for Managers: Taking Business Intelligence
+    Beyond
+    Reporting](https://www.amazon.com/Business-Analytics-Managers-Intelligence-Reporting/dp/111929858X)
 
 #### Optional Textbooks
+
+-   None at the moment
 
 ### Canvas
 
@@ -57,14 +64,6 @@ another).
 
 All technologies exist in the cloud, however, some software downloads
 may be necessary on occasion to interact with them.
-
-### Learning Objectives
-
-Objectives are as follows.
-
--   Introduce a set of ideal situations to optimize business operations
-    through analytics.
--   Gain some hands-on experience with modern analytics technologies.
 
 ### Schedule
 
