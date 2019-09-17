@@ -299,7 +299,7 @@ Points
 Labs
 </td>
 <td style="text-align:right;">
-20
+30
 </td>
 </tr>
 <tr>
@@ -307,7 +307,7 @@ Labs
 Quizzes
 </td>
 <td style="text-align:right;">
-35
+30
 </td>
 </tr>
 <tr>
@@ -315,7 +315,7 @@ Quizzes
 Exam
 </td>
 <td style="text-align:right;">
-45
+40
 </td>
 </tr>
 </tbody>

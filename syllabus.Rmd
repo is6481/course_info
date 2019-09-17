@@ -81,14 +81,15 @@ knitr::kable(schedule,format='html',escape=F,col.names=c('Dates','Week','Lecture
 ```
 
 ### Grading
+
 Points will be assigned based on the following:
 
 ```{r grading,echo=F}
 point_allocation <- tribble(
     ~Item,~Points,
-    'Labs',20,
-    'Quizzes',35,
-    'Exam',45
+    'Labs',30,
+    'Quizzes',30,
+    'Exam',40
 )
 knitr::kable(point_allocation) %>% 
     kable_styling(c('striped'),full_width = F,position='left') %>% 
