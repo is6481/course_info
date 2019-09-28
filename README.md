@@ -35,6 +35,15 @@ All materials for the course can be found on GitHub here:
 <https://github.com/is6481>. Students are expected to keep up with all
 other materials and announcements in Canvas.
 
+### Weekly Webinar
+
+I will host a webinar every Saturday during the session from 9:00 -
+10:00 am. Recorded sessions will be available in Canvas in the Media
+Gallery. Meeting info below.
+
+Link to webinar: <https://zoom.us/meeting/572876308>  
+Meeting number: 572-876-308
+
 ### Course Description
 
 Data has always been used as a way to measure and improve processes in
