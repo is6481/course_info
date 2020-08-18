@@ -8,13 +8,12 @@ Course Info
 *Email:*
 <a href="mailto:jeremy.morris@utah.edu" class="email">jeremy.morris@utah.edu</a>  
 *Phone:* 801-573-3265  
-<!-- _Office Hours:_ Wednesdays, 4:30-5:30pm in SFEBB 5155   -->
 *Twitter:* @seedatarun
 
-*Teaching Assistant:* William Schworer  
-*Email:* Canvas only
+*Teaching Assistant:* NONE
 
-Start Date: September 23, 2019 Classroom: Online
+Start Date: August 24, 2020  
+Classroom: Online
 
 This syllabus is subject to change. Please come back and review
 occasionally to see changes.
@@ -41,8 +40,9 @@ I will host a webinar every Saturday during the session from 9:00 -
 10:00 am. Recorded sessions will be available in Canvas in the Media
 Gallery. Meeting info below.
 
-Link to webinar: <https://zoom.us/meeting/572876308>  
-Meeting number: 572-876-308
+Link to webinar: <https://utah.zoom.us/j/91729204711>  
+Meeting number: 917 2920 4711  
+Passcode: Will be posted as an announcement in Canvas
 
 ### Course Description
 
@@ -116,6 +116,7 @@ Exam
 </tr>
 </tbody>
 </table>
+
 Late policy: 20% reduction in the final score for the first day and 10%
 every day thereafter.
 
@@ -207,6 +208,7 @@ below 70
 </tr>
 </tbody>
 </table>
+
 ### Disability Accommodation
 
 The University of Utah seeks to provide equal access to its programs,
@@ -372,6 +374,7 @@ Guideline
 </tr>
 </tbody>
 </table>
+
 If students have a concern about their grade in a particular course,
 they should consider whether it reflects an accurate evaluation of their
 mastery of the course material and learning objectives, in terms of the

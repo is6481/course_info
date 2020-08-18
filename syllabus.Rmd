@@ -1,9 +1,7 @@
 ---
 title: "Syllabus"
 author: "Jeremy Morris"
-output:
-  html_document:
-    theme: cosmo
+output: markdowntemplates::prismskel
 always_allow_html: yes
 ---
 
@@ -43,8 +41,9 @@ All materials for the course can be found on GitHub here: [https://github.com/is
 ### Weekly Webinar
 I will host a webinar every Saturday during the session from 9:00 - 10:00 am. Recorded sessions will be available in Canvas in the Media Gallery. Meeting info below.
 
-Link to webinar: [https://zoom.us/meeting/572876308](https://zoom.us/meeting/572876308)  
-Meeting number: 572-876-308
+Link to webinar: [https://utah.zoom.us/j/91729204711](https://utah.zoom.us/j/91729204711)  
+Meeting number: 917 2920 4711  
+Passcode: Will be posted as an announcement in Canvas
 
 ### Course Description
 Data has always been used as a way to measure and improve processes in business. At its core, this course intends to teach best practices for optimizing business processes using data. During the course we will discuss the following topics.
@@ -100,7 +99,6 @@ grading <- tribble(
 )
 knitr::kable(grading) %>% kable_styling(c('striped'),full_width = F,position='left') %>% column_spec(1, bold = T, border_right = T)
 ```
-
 
 
 ### Disability Accommodation
