@@ -45,6 +45,12 @@ Link to webinar: [https://utah.zoom.us/j/91729204711](https://utah.zoom.us/j/917
 Meeting number: 917 2920 4711  
 Passcode: Will be posted as an announcement in Canvas
 
+### Lecture Notes  
+Lecture notes and quiz study guides can be found on GitHub at the following locations.
+
+* [https://github.com/is6481/lecture_slides_notes](All Lecture Notes)
+* [https://github.com/is6481/lecture_slides_notes/tree/master/quiz_study_guides](Quiz Study Guides)
+
 ### Course Description
 Data has always been used as a way to measure and improve processes in business. At its core, this course intends to teach best practices for optimizing business processes using data. During the course we will discuss the following topics.
 

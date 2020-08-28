@@ -44,6 +44,14 @@ Link to webinar: <https://utah.zoom.us/j/91729204711>
 Meeting number: 917 2920 4711  
 Passcode: Will be posted as an announcement in Canvas
 
+### Lecture Notes
+
+Lecture notes and quiz study guides can be found on GitHub at the
+following locations.
+
+-   [https://github.com/is6481/lecture\_slides\_notes](All%20Lecture%20Notes)
+-   [https://github.com/is6481/lecture\_slides\_notes/tree/master/quiz\_study\_guides](Quiz%20Study%20Guides)
+
 ### Course Description
 
 Data has always been used as a way to measure and improve processes in
