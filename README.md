@@ -40,8 +40,8 @@ I will host a webinar every Saturday during the session from 9:00 -
 Gallery. Meeting info below.
 
 Link to webinar: <https://utah.zoom.us/j/94881855266>  
-Meeting number: 948 818 55266 Passcode: Will be posted as an
-announcement in Canvas
+Meeting number: 948 818 55266  
+Passcode: Will be posted as an announcement in Canvas
 
 ### Lecture Notes
 
