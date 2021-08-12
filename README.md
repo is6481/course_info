@@ -1,18 +1,17 @@
-Course Info
------------
+## Course Info
 
 ### IS 6481: Business Intelligence & Analytics
 
 *Instructor:* Jeremy Morris  
 *Office:* Off Campus  
-*Email:*
-<a href="mailto:jeremy.morris@utah.edu" class="email">jeremy.morris@utah.edu</a>  
+*Email:* <jeremy.morris@utah.edu>  
 *Phone:* 801-573-3265  
 *Twitter:* @seedatarun
 
-*Teaching Assistant:* NONE
+*Teaching Assistant:* Manali Harinkhere  
+*Email:* <manali.harinkhere@utah.edu>
 
-Start Date: August 24, 2020  
+Start Date: August 23, 2021  
 Classroom: Online
 
 This syllabus is subject to change. Please come back and review
@@ -40,17 +39,18 @@ I will host a webinar every Saturday during the session from 9:00 -
 10:00 am. Recorded sessions will be available in Canvas in the Media
 Gallery. Meeting info below.
 
-Link to webinar: <https://utah.zoom.us/j/91729204711>  
-Meeting number: 917 2920 4711  
-Passcode: Will be posted as an announcement in Canvas
+Link to webinar: <https://utah.zoom.us/j/94881855266>  
+Meeting number: 948 818 55266 Passcode: Will be posted as an
+announcement in Canvas
 
 ### Lecture Notes
 
 Lecture notes and quiz study guides can be found on GitHub at the
 following locations.
 
--   [https://github.com/is6481/lecture\_slides\_notes](All%20Lecture%20Notes)
--   [https://github.com/is6481/lecture\_slides\_notes/tree/master/quiz\_study\_guides](Quiz%20Study%20Guides)
+-   [All Lecture Notes](https://github.com/is6481/lecture_slides_notes)
+-   [Quiz Study
+    Guides](https://github.com/is6481/lecture_slides_notes/tree/master/quiz_study_guides)
 
 ### Course Description
 
