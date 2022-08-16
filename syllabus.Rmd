@@ -5,6 +5,9 @@ output:
   html_document: 
     theme: cosmo
 always_allow_html: true
+editor_options: 
+  markdown: 
+    wrap: sentence
 ---
 
 ```{r setup, include=FALSE}
@@ -14,64 +17,79 @@ library(kableExtra)
 ```
 
 ## Course Info
+
 ### IS 6481: Business Intelligence & Analytics
-_Instructor:_ Jeremy Morris   
-_Office:_ Off Campus  
-_Email:_ jeremy.morris@utah.edu  
-_Phone:_ 801-573-3265  
-_Twitter:_ @seedatarun  
 
-_Teaching Assistant:_ Manali Harinkhere  
-_Email:_ manali.harinkhere@utah.edu 
+*Instructor:* Jeremy Morris  
+*Office:* TBD  
+*Email:* [jeremy.morris@utah.edu](mailto:jeremy.morris@utah.edu){.email}  
+*Phone:* 801-573-3265  
+*Twitter:* @seedatarun
 
-Start Date: August 23, 2021  
-Classroom: Online
+*Teaching Assistant:* Jonathan Rossi  
+*Email:* [u0958682@utah.edu](mailto:u0958682@utah.edu){.email}  
 
+Start Date: August 23, 2022  
+Classroom: Online  
 
-This syllabus is subject to change. Please come back and review occasionally to see changes.
+Office hours can be scheduled by [clicking here](https://outlook.office365.com/owa/calendar/StudentOfficeHours@precision-analytics.io/bookings/).
+
+This syllabus is subject to change.
+Please come back and review occasionally to see changes.
 
 ### Required Textbook
 
-* [Business Analytics for Managers: Taking Business Intelligence Beyond Reporting](https://www.amazon.com/Business-Analytics-Managers-Intelligence-Reporting/dp/111929858X)
+-   [Business Analytics for Managers: Taking Business Intelligence Beyond Reporting](https://www.amazon.com/Business-Analytics-Managers-Intelligence-Reporting/dp/111929858X)
 
 #### Optional Textbooks
 
-* None at the moment
+-   None at the moment
 
-### Canvas  
-All materials for the course can be found on GitHub here: [https://github.com/is6481](https://github.com/is6481). Students are expected to keep up with all other materials and announcements in Canvas.
+### Canvas
+
+All materials for the course can be found on GitHub here: <https://github.com/is6481>.
+Students are expected to keep up with all other materials and announcements in Canvas.
 
 ### Weekly Webinar
-I will host a webinar every Saturday during the session from 9:00 - 10:00 am. Recorded sessions will be available in Canvas in the Media Gallery. Meeting info below.
 
-Link to webinar: [https://utah.zoom.us/j/94881855266](https://utah.zoom.us/j/94881855266)  
-Meeting number: 948 818 55266  
-Passcode: Will be posted as an announcement in Canvas
+I will host a webinar every Tuesday during the session from 5:00 to 5:45 pm.
+Recorded sessions will be available in Canvas in the Media Gallery.
+Meeting info below.
 
-### Lecture Notes  
+Link to webinar: <https://utah.zoom.us/j/92553368016>  
+Meeting number: 925 533 68016  
+Passcode: Will be posted as an announcement in Canvas  
+
+### Lecture Notes
+
 Lecture notes and quiz study guides can be found on GitHub at the following locations.
 
-* [All Lecture Notes](https://github.com/is6481/lecture_slides_notes)
-* [Quiz Study Guides](https://github.com/is6481/lecture_slides_notes/tree/master/quiz_study_guides)
+-   [All Lecture Notes](https://github.com/is6481/lecture_slides_notes)
+-   [Quiz Study Guides](https://github.com/is6481/lecture_slides_notes/tree/master/quiz_study_guides)
 
 ### Course Description
-Data has always been used as a way to measure and improve processes in business. At its core, this course intends to teach best practices for optimizing business processes using data. During the course we will discuss the following topics.
 
-* The ideal state of information flow within a business.
-* Required competencies for analytics staff.
-* Data warehouse functional requirements.
-* Possible analytics organization structures.
-* Data quality, data quality, and more data quality.
+Data has always been used as a way to measure and improve processes in business.
+At its core, this course intends to teach best practices for optimizing business processes using data.
+During the course we will discuss the following topics.
 
-This course also includes a set of hands-on labs intended to walk students through the process of providing analytics to a business. The intent is not to get any deep skills in one particular area but to introduce students to various technologies and to gain a small amount of hands-on experience with those technologies. A very small amount of coding will be required, help will be provided when necessary. This semester we will be using the following technologies (in some form or another).
+-   The ideal state of information flow within a business.
+-   Required competencies for analytics staff.
+-   Data warehouse functional requirements.
+-   Possible analytics organization structures.
+-   Data quality, data quality, and more data quality.
 
-* GitHub
-* Domo
-* AWS
-* R/R Studio
+This course also includes a set of hands-on labs intended to walk students through the process of providing analytics to a business.
+The intent is not to get any deep skills in one particular area but to introduce students to various technologies and to gain a small amount of hands-on experience with those technologies.
+A very small amount of coding will be required, help will be provided when necessary.
+This semester we will be using the following technologies (in some form or another).
+
+-   GitHub
+-   Domo
+-   AWS
+-   R/R Studio
 
 All technologies exist in the cloud, however, some software downloads may be necessary on occasion to interact with them.
-
 
 ### Grading
 
@@ -109,36 +127,73 @@ grading <- tribble(
 knitr::kable(grading) %>% kable_styling(c('striped'),full_width = F,position='left') %>% column_spec(1, bold = T, border_right = T)
 ```
 
-
 ### Disability Accommodation
-The University of Utah seeks to provide equal access to its programs, services and activities for people with disabilities. If you will need accommodations in the class, reasonable prior notice needs to be given to the Center for Disability Services, 162 Union Building, 581-5020 (V/TDD). CDS will work with you and the instructor to make arrangements for accommodations.
+
+The University of Utah seeks to provide equal access to its programs, services and activities for people with disabilities.
+If you will need accommodations in the class, reasonable prior notice needs to be given to the Center for Disability Services, 162 Union Building, 581-5020 (V/TDD).
+CDS will work with you and the instructor to make arrangements for accommodations.
 
 ### General Guidelines on Academic Misconduct
-These guidelines are not comprehensive.  Rather, they reflect the most common misconceptions that students have with respect to academic misconduct:
-Never share a file with another student.  If two or more students collaborate on an effort, the outputs should either be:
-Allocated to a single student.  All other students must reproduce the outputs independently.
-Destroyed.  All students must reproduce the outputs independently.
-When helping another student, never show them your solution.  Consider, working on their computer/whiteboard/paper instead.  If the student copies your solution manually by examining your solution, you will be equally responsible for the given academic misconduct.
-If a submission is not indicated as “group-based”, assume that you need to complete the submission independently.  If group/independent nature of a submission is unclear, check with the instructor before making the assumption.
-A busy schedule is not a rationale for submitting all/part of someone else’s work as your own. 
-If you are responsible for unethical behavior in an academic misconduct case, be truthful and forthcoming with information for the instructor and/or university administrators involved. 
-The typical sanction for a first-time academic misconduct case is a grade of -100% for the submission item.  In addition, your details will be entered into a centralized database so administrators can manage repeat offenders.
+
+These guidelines are not comprehensive.
+Rather, they reflect the most common misconceptions that students have with respect to academic misconduct: Never share a file with another student.
+If two or more students collaborate on an effort, the outputs should either be: Allocated to a single student.
+All other students must reproduce the outputs independently.
+Destroyed.
+All students must reproduce the outputs independently.
+When helping another student, never show them your solution.
+Consider, working on their computer/whiteboard/paper instead.
+If the student copies your solution manually by examining your solution, you will be equally responsible for the given academic misconduct.
+If a submission is not indicated as "group-based", assume that you need to complete the submission independently.
+If group/independent nature of a submission is unclear, check with the instructor before making the assumption.
+A busy schedule is not a rationale for submitting all/part of someone else's work as your own.
+If you are responsible for unethical behavior in an academic misconduct case, be truthful and forthcoming with information for the instructor and/or university administrators involved.
+The typical sanction for a first-time academic misconduct case is a grade of -100% for the submission item.
+In addition, your details will be entered into a centralized database so administrators can manage repeat offenders.
 
 ### Statement of Professional and Ethical Conduct
-Because of the importance of professional and ethical behavior in business, and its emphasis in our program, professional or academic misconduct is not tolerated in the David Eccles School of Business. Students are expected to adhere to the standards of behavior outlined in the University of Utah Code of Student Rights and Responsibilities (Policy 6-400). Students engaging in behavioral misconduct could be subject to suspension or dismissal from the University. Students involved in any form of academic misconduct, including but not limited to cheating on tests, plagiarism and collusion may, at the instructor's discretion, receive a failing grade in the course, examination, or academic assignment. In addition to or instead of this sanction, the instructor may refer the case to the Student Behavior Committee for hearing. If the instructor chooses not to do so, the Associate Dean for Academic Affairs, after appropriate investigation, may do so along with a recommendation to dismiss the student from the Business School. If, after hearing the evidence, the Committee determines that the student in question is guilty of the misconduct charged, the Committee may impose sanctions in addition to those taken by the professor. If the academic dishonesty is not proven, the instructor must rescind any sanctions imposed and will be required to evaluate the student's performance with the assumption that there has been no misconduct. The School will treat the student likewise. If a student suspects another student of academic misconduct, he/she should refer the incident to the instructor, the appropriate department, the Associate Dean for Academic Affairs, or the Student Behavior Committee, administered by the Associate Dean of Students, 270 Union.
+
+Because of the importance of professional and ethical behavior in business, and its emphasis in our program, professional or academic misconduct is not tolerated in the David Eccles School of Business.
+Students are expected to adhere to the standards of behavior outlined in the University of Utah Code of Student Rights and Responsibilities (Policy 6-400).
+Students engaging in behavioral misconduct could be subject to suspension or dismissal from the University.
+Students involved in any form of academic misconduct, including but not limited to cheating on tests, plagiarism and collusion may, at the instructor's discretion, receive a failing grade in the course, examination, or academic assignment.
+In addition to or instead of this sanction, the instructor may refer the case to the Student Behavior Committee for hearing.
+If the instructor chooses not to do so, the Associate Dean for Academic Affairs, after appropriate investigation, may do so along with a recommendation to dismiss the student from the Business School.
+If, after hearing the evidence, the Committee determines that the student in question is guilty of the misconduct charged, the Committee may impose sanctions in addition to those taken by the professor.
+If the academic dishonesty is not proven, the instructor must rescind any sanctions imposed and will be required to evaluate the student's performance with the assumption that there has been no misconduct.
+The School will treat the student likewise.
+If a student suspects another student of academic misconduct, he/she should refer the incident to the instructor, the appropriate department, the Associate Dean for Academic Affairs, or the Student Behavior Committee, administered by the Associate Dean of Students, 270 Union.
 
 ### University Safety Statement
-The University of Utah values the safety of all campus community members. To report suspicious activity or to request a courtesy escort, call campus police at 801-585-COPS (801-585-2677). You will receive important emergency alerts and safety messages regarding campus safety via text message. For more information regarding safety and to view available training resources, including helpful videos, visit safeu.utah.edu.
+
+The University of Utah values the safety of all campus community members.
+To report suspicious activity or to request a courtesy escort, call campus police at 801-585-COPS (801-585-2677).
+You will receive important emergency alerts and safety messages regarding campus safety via text message.
+For more information regarding safety and to view available training resources, including helpful videos, visit safeu.utah.edu.
 
 ### Addressing Sexual Misconduct
-Title IX makes it clear that violence and harassment based on sex and gender (which Includes sexual orientation and gender identity/expression) is a civil rights offense subject to the same kinds of accountability and the same kinds of support applied to offenses against other protected categories such as race, national origin, color, religion, age, status as a person with a disability, veteran’s status or genetic information.  If you or someone you know has been harassed or assaulted, you are encouraged to report it to the Title IX Coordinator in the Office of Equal Opportunity and Affirmative Action, 135 Park Building, 801-581-8365, or the Office of the Dean of Students, 270 Union Building, 801-581-7066.  For support and confidential consultation, contact the Center for Student Wellness, 426 SSB, 801-581-7776.  To report to the police, contact the Department of Public Safety, 801-585-2677(COPS).
+
+Title IX makes it clear that violence and harassment based on sex and gender (which Includes sexual orientation and gender identity/expression) is a civil rights offense subject to the same kinds of accountability and the same kinds of support applied to offenses against other protected categories such as race, national origin, color, religion, age, status as a person with a disability, veteran's status or genetic information.
+If you or someone you know has been harassed or assaulted, you are encouraged to report it to the Title IX Coordinator in the Office of Equal Opportunity and Affirmative Action, 135 Park Building, 801-581-8365, or the Office of the Dean of Students, 270 Union Building, 801-581-7066.
+For support and confidential consultation, contact the Center for Student Wellness, 426 SSB, 801-581-7776.
+To report to the police, contact the Department of Public Safety, 801-585-2677(COPS).
 
 ### Undocumented Student Support Statement
-Immigration is a complex phenomenon with broad impact—those who are directly affected by it, as well as those who are indirectly affected by their relationships with family members, friends, and loved ones. If your immigration status presents obstacles to engaging in specific activities or fulfilling specific course criteria, confidential arrangements may be requested from the Dream Center. Arrangements with the Dream Center will not jeopardize your student status, your financial aid, or any other part of your residence. The Dream Center offers a wide range of resources to support undocumented students (with and without DACA) as well as students from mixed-status families. To learn more, please contact the Dream Center at 801.213.3697 or visit dream.utah.edu.
 
+Immigration is a complex phenomenon with broad impact---those who are directly affected by it, as well as those who are indirectly affected by their relationships with family members, friends, and loved ones.
+If your immigration status presents obstacles to engaging in specific activities or fulfilling specific course criteria, confidential arrangements may be requested from the Dream Center.
+Arrangements with the Dream Center will not jeopardize your student status, your financial aid, or any other part of your residence.
+The Dream Center offers a wide range of resources to support undocumented students (with and without DACA) as well as students from mixed-status families.
+To learn more, please contact the Dream Center at 801.213.3697 or visit dream.utah.edu.
 
 ### Statement of Grading Policy
-Grading provides feedback to students on how well they have mastered the content and learning objectives of a particular course to allow students to capitalize on strengths and work to improve weaknesses through future courses of action. The DESB grading policy is intended to ensure grades offer reliable feedback regarding student performance, and to ensure fairness and consistency across the School. The faculty member is responsible for arriving at a grade for each student that the faculty member believes appropriately reflects the student's mastery of the course material and learning objectives. The faculty member will then consider the class' overall performance in terms of School guidelines. These guidelines are provided to ensure that grading, on average for the School as a whole, is sustained at a reasonable level over time. The guidelines are as follows:
+
+Grading provides feedback to students on how well they have mastered the content and learning objectives of a particular course to allow students to capitalize on strengths and work to improve weaknesses through future courses of action.
+The DESB grading policy is intended to ensure grades offer reliable feedback regarding student performance, and to ensure fairness and consistency across the School.
+The faculty member is responsible for arriving at a grade for each student that the faculty member believes appropriately reflects the student's mastery of the course material and learning objectives.
+The faculty member will then consider the class' overall performance in terms of School guidelines.
+These guidelines are provided to ensure that grading, on average for the School as a whole, is sustained at a reasonable level over time.
+The guidelines are as follows:
 
 ```{r guideline_table,echo=F}
 guideline <- tribble(
@@ -152,7 +207,11 @@ knitr::kable(guideline) %>% kable_styling(c('striped'),full_width = F,position='
   column_spec(1, bold = T, border_right = T)
 ```
 
-If students have a concern about their grade in a particular course, they should consider whether it reflects an accurate evaluation of their mastery of the course material and learning objectives, in terms of the above descriptors. If they need clarification of the instructor's evaluation, they should meet with the instructor to obtain additional information and feedback. If after doing so, they believe their grade was arrived at in an inappropriate manner, they may pursue an appeal through the School's appeals process as described in Section 5.15 of the University of Utah Code of Student Rights and Responsibilities (Policy 6-400).
+If students have a concern about their grade in a particular course, they should consider whether it reflects an accurate evaluation of their mastery of the course material and learning objectives, in terms of the above descriptors.
+If they need clarification of the instructor's evaluation, they should meet with the instructor to obtain additional information and feedback.
+If after doing so, they believe their grade was arrived at in an inappropriate manner, they may pursue an appeal through the School's appeals process as described in Section 5.15 of the University of Utah Code of Student Rights and Responsibilities (Policy 6-400).
 
 ### Use of Electronic Devices in Exams
-Use of any and all electronic devices (e.g. pagers, cell phones, language translators, laptops, tablets, calculators, etc.) is forbidden during an exam unless otherwise specifically authorized by the instructor. A student who uses an unauthorized device may be subject to penalties for academic misconduct.
+
+Use of any and all electronic devices (e.g. pagers, cell phones, language translators, laptops, tablets, calculators, etc.) is forbidden during an exam unless otherwise specifically authorized by the instructor.
+A student who uses an unauthorized device may be subject to penalties for academic misconduct.
