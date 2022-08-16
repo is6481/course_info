@@ -3,16 +3,19 @@
 ### IS 6481: Business Intelligence & Analytics
 
 *Instructor:* Jeremy Morris  
-*Office:* Off Campus  
+*Office:* TBD  
 *Email:* <jeremy.morris@utah.edu>  
 *Phone:* 801-573-3265  
 *Twitter:* @seedatarun
 
-*Teaching Assistant:* Manali Harinkhere  
-*Email:* <manali.harinkhere@utah.edu>
+*Teaching Assistant:* Jonathan Rossi  
+*Email:* <u0958682@utah.edu>
 
-Start Date: August 23, 2021  
+Start Date: August 23, 2022  
 Classroom: Online
+
+Office hours can be scheduled by [clicking
+here](https://outlook.office365.com/owa/calendar/StudentOfficeHours@precision-analytics.io/bookings/).
 
 This syllabus is subject to change. Please come back and review
 occasionally to see changes.
@@ -35,12 +38,12 @@ other materials and announcements in Canvas.
 
 ### Weekly Webinar
 
-I will host a webinar every Saturday during the session from 9:00 -
-10:00 am. Recorded sessions will be available in Canvas in the Media
-Gallery. Meeting info below.
+I will host a webinar every Tuesday during the session from 5:00 to 5:45
+pm. Recorded sessions will be available in Canvas in the Media Gallery.
+Meeting info below.
 
-Link to webinar: <https://utah.zoom.us/j/94881855266>  
-Meeting number: 948 818 55266  
+Link to webinar: <https://utah.zoom.us/j/92553368016>  
+Meeting number: 925 533 68016  
 Passcode: Will be posted as an announcement in Canvas
 
 ### Lecture Notes
